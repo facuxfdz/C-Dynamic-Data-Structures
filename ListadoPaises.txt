@@ -1,0 +1,5126 @@
+Listado ordenado por países y meses de casos mensuales     
+
+================================================================
+
+Pais: Afganistan         Cant. Habit.:                 32225560
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Albania                            Cant. Habit.: 2845955
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Alemania                           Cant. Habit.: 83149300
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Andorra                            Cant. Habit.: 77543
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Angola                             Cant. Habit.: 31127674
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Antigua y Barbuda                  Cant. Habit.: 98000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Arabia Saudita                     Cant. Habit.: 34218169
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Argelia                            Cant. Habit.: 43378027
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Argentina                          Cant. Habit.: 45376763
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+         566454         587051         470684         457226
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1         263546         239116         257784         152369
+
+  2          20931          37943          13964          36119
+
+  3           2186          17489           9018          18400
+
+  4          42371           4671          10780          56968
+
+  5           5084          19732          17911          11565
+
+  6          62177         109467          41172          81898
+
+  7         170159         158633         120055          99907
+
+================================================================
+
+================================================================
+
+Pais: Armenia                            Cant. Habit.: 2956900
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Australia                          Cant. Habit.: 25715000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Austria                            Cant. Habit.: 8902600
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Azerbaiyan                         Cant. Habit.: 10067108
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Bahamas                            Cant. Habit.: 389410
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Banglades                          Cant. Habit.: 166221000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Barbados                           Cant. Habit.: 287000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Barein                             Cant. Habit.: 1592000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Belgica                            Cant. Habit.: 11533266
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Belice                             Cant. Habit.: 408487
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Benin                              Cant. Habit.: 12114193
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Bielorrusia                        Cant. Habit.: 9397800
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Birmania                           Cant. Habit.: 53630000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Bolivia                            Cant. Habit.: 11643000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Botsuana                           Cant. Habit.: 2374697
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Brasil                             Cant. Habit.: 211737000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+        1981993        1819942        1774436        1860701
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1         280323         243317         285769         292632
+
+  2         351766         264221         221831         288053
+
+  3         219920         249408         146090         260295
+
+  4         206750         348970         263353         264703
+
+  5         309663         246376         279527         270003
+
+  6         324593         210798         325217         305262
+
+  7         288978         256852         252649         179753
+
+================================================================
+
+================================================================
+
+Pais: Brunei                             Cant. Habit.: 459500
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Bulgaria                           Cant. Habit.: 6951482
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Burkina Faso                       Cant. Habit.: 21510181
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Burundi                            Cant. Habit.: 11215578
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Butan                              Cant. Habit.: 748931
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Cabo Verde                         Cant. Habit.: 556857
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Camboya                            Cant. Habit.: 15288489
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Camerun                            Cant. Habit.: 24348251
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Canada                             Cant. Habit.: 38154000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Catar                              Cant. Habit.: 2795484
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Chad                               Cant. Habit.: 16244513
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Chile                              Cant. Habit.: 19107216
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: China                              Cant. Habit.: 1403823000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+       13395129       11778724       11550614       12241077
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1        2112505        2054837        1767516        1597863
+
+  2        1756170        1001931        1437132        1580264
+
+  3        1821028        1704666        1850209        2113310
+
+  4        1821934        1550296        1886016        1575943
+
+  5        2246035        1777364        1001888        1745159
+
+  6        1737777        1938568        1464466        1865628
+
+  7        1899680        1751062        2143387        1762910
+
+================================================================
+
+================================================================
+
+Pais: Chipre                             Cant. Habit.: 875900
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Colombia                           Cant. Habit.: 50372424
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Comoras                            Cant. Habit.: 873724
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Corea del Norte                    Cant. Habit.: 25450000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Corea del Sur                      Cant. Habit.: 51780579
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Costa Rica                         Cant. Habit.: 5111238
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Costa de Marfil                    Cant. Habit.: 26453542
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Croacia                            Cant. Habit.: 4105000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Cuba                               Cant. Habit.: 11209628
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Dinamarca                          Cant. Habit.: 5824857
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Dominica                           Cant. Habit.: 72000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Ecuador                            Cant. Habit.: 17529000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Egipto                             Cant. Habit.: 100641000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+         832695         968788         829457         844770
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1         135810         141666          86168         132183
+
+  2         106302         127672         112602         126795
+
+  3         116806         142638         131115         140955
+
+  4         118661         138622         119097         106415
+
+  5         136471         160513         140263         102966
+
+  6          77303          86312         131019         138788
+
+  7         141342         171365         109193          96668
+
+================================================================
+
+================================================================
+
+Pais: El Salvador                        Cant. Habit.: 6765753
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Eritrea                            Cant. Habit.: 3546000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Eslovaquia                         Cant. Habit.: 5457873
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Eslovenia                          Cant. Habit.: 2095861
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Espana                             Cant. Habit.: 47100396
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Estados Unidos                     Cant. Habit.: 329870000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+        3265711        2900385        2797600        3191677
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1         435851         404267         357399         495429
+
+  2         424926         506561         414777         414095
+
+  3         404362         373645         395220         563616
+
+  4         484275         343176         384841         384277
+
+  5         614911         405025         431971         447211
+
+  6         531019         477316         405536         515711
+
+  7         370367         390395         407856         371338
+
+================================================================
+
+================================================================
+
+Pais: Estonia                            Cant. Habit.: 1328976
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Etiopia                            Cant. Habit.: 98665000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Filipinas                          Cant. Habit.: 108771978
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+         990832        1010912         949921         909589
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1         157658         161124         156079         130253
+
+  2         140289         101354         124947         115685
+
+  3         136364         138833         136045         132674
+
+  4         168810         135715         135991         113221
+
+  5          88651         176067          83550         126591
+
+  6         170953         170081         162774         160243
+
+  7         128107         127738         150535         130922
+
+================================================================
+
+================================================================
+
+Pais: Finlandia                          Cant. Habit.: 5528737
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Fiyi                               Cant. Habit.: 884887
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Francia                            Cant. Habit.: 64898000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Gabon                              Cant. Habit.: 2226000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Gambia                             Cant. Habit.: 2229200
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Georgia                            Cant. Habit.: 3716858
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Ghana                              Cant. Habit.: 30280811
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Granada                            Cant. Habit.: 113000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Grecia                             Cant. Habit.: 10724599
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Guatemala                          Cant. Habit.: 16858333
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Guinea                             Cant. Habit.: 12218357
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Guinea Ecuatorial                  Cant. Habit.: 1454789
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Guinea-Bisau                       Cant. Habit.: 1624979
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Guyana                             Cant. Habit.: 787000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Haiti                              Cant. Habit.: 11743017
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Honduras                           Cant. Habit.: 9158345
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Hungria                            Cant. Habit.: 9769000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: India                              Cant. Habit.: 1373865000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+       11680036       10858114       11871273       11558268
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1        2320570        1234739        1556986        1213569
+
+  2        1786701        1398441        1840048        1277972
+
+  3        1441170        1341407        2028873        1962440
+
+  4        1463265        1832038        1495224        1916480
+
+  5        1642350        1258616        1578606        1342200
+
+  6        1491600        1609496        1709455        2314578
+
+  7        1534380        2183377        1662081        1531029
+
+================================================================
+
+================================================================
+
+Pais: Indonesia                          Cant. Habit.: 268074600
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+        2534790        2187156        2477006        2493260
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1         363667         330096         392990         229046
+
+  2         386106         319694         346529         387273
+
+  3         399770         310525         358319         355325
+
+  4         321732         316363         352124         427503
+
+  5         412624         331656         368551         429690
+
+  6         367478         278890         317271         320988
+
+  7         283413         299932         341222         343435
+
+================================================================
+
+================================================================
+
+Pais: Irak                               Cant. Habit.: 40150200
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Iran                               Cant. Habit.: 83075000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Irlanda                            Cant. Habit.: 4921500
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Islandia                           Cant. Habit.: 366130
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Islas Marshall                     Cant. Habit.: 55500
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Islas Salomon                      Cant. Habit.: 680806
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Italia                             Cant. Habit.: 60238522
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Jamaica                            Cant. Habit.: 2726667
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Japon                              Cant. Habit.: 125900000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Jordania                           Cant. Habit.: 10682000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Kazajistan                         Cant. Habit.: 18671900
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Kenia                              Cant. Habit.: 47564296
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Kirguistan                         Cant. Habit.: 6533500
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Kiribati                           Cant. Habit.: 120100
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Kuwait                             Cant. Habit.: 4420110
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Laos                               Cant. Habit.: 7123205
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Lesoto                             Cant. Habit.: 2007201
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Letonia                            Cant. Habit.: 1904600
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Libano                             Cant. Habit.: 6825000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Liberia                            Cant. Habit.: 4568298
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Libia                              Cant. Habit.: 6871000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Liechtenstein                      Cant. Habit.: 38749
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Lituania                           Cant. Habit.: 2793353
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Luxemburgo                         Cant. Habit.: 626108
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Macedonia del Norte                Cant. Habit.: 2077132
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Madagascar                         Cant. Habit.: 26251309
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Malasia                            Cant. Habit.: 32833000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Malaui                             Cant. Habit.: 17563749
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Maldivas                           Cant. Habit.: 374775
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Mali                               Cant. Habit.: 19418097
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Malta                              Cant. Habit.: 493559
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Marruecos                          Cant. Habit.: 35957000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Mauricio                           Cant. Habit.: 1265985
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Mauritania                         Cant. Habit.: 4173077
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Mexico                             Cant. Habit.: 127792286
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Micronesia                         Cant. Habit.: 104468
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Moldavia                           Cant. Habit.: 2681735
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Monaco                             Cant. Habit.: 38300
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Mongolia                           Cant. Habit.: 3250000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Montenegro                         Cant. Habit.: 622227
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Mozambique                         Cant. Habit.: 30066648
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Namibia                            Cant. Habit.: 2504498
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Nauru                              Cant. Habit.: 11000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Nepal                              Cant. Habit.: 29996478
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Nicaragua                          Cant. Habit.: 6460411
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Niger                              Cant. Habit.: 23196002
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Nigeria                            Cant. Habit.: 193392517
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+        1633194        1631518        1504250        1707715
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1         196499         227954         222502         251956
+
+  2         161918         225286         150611         223861
+
+  3         287283         218009         265471         216846
+
+  4         246383         204797         245950         302581
+
+  5         265608         200100         215063         304582
+
+  6         230857         300122         230070         194949
+
+  7         244646         255250         174583         212940
+
+================================================================
+
+================================================================
+
+Pais: Noruega                            Cant. Habit.: 5372355
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Nueva Zelanda                      Cant. Habit.: 4999000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Oman                               Cant. Habit.: 4682000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Paises Bajos                       Cant. Habit.: 17424106
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Pakistan                           Cant. Habit.: 207776954
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Palaos                             Cant. Habit.: 17900
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Panama                             Cant. Habit.: 4278500
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Papua Nueva Guinea                 Cant. Habit.: 8558800
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Paraguay                           Cant. Habit.: 7252672
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Peru                               Cant. Habit.: 32824358
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Polonia                            Cant. Habit.: 38379000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Portugal                           Cant. Habit.: 10276617
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Reino Unido                        Cant. Habit.: 66796807
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Republica Checa                    Cant. Habit.: 10693939
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Republica del Congo                Cant. Habit.: 5518000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Ruanda                             Cant. Habit.: 12663116
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Rumania                            Cant. Habit.: 19405156
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Rusia                              Cant. Habit.: 146745098
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Samoa                              Cant. Habit.: 200874
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: San Marino                         Cant. Habit.: 33553
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Santa Lucia                        Cant. Habit.: 184000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Senegal                            Cant. Habit.: 16705608
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Serbia                             Cant. Habit.: 6963764
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Seychelles                         Cant. Habit.: 98055
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Sierra Leona                       Cant. Habit.: 8115829
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Singapur                           Cant. Habit.: 5703600
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Siria                              Cant. Habit.: 17501000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Somalia                            Cant. Habit.: 15893000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Sri Lanka                          Cant. Habit.: 21803000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Suazilandia                        Cant. Habit.: 1093238
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Sudafrica                          Cant. Habit.: 58775022
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Sudan                              Cant. Habit.: 42718000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Sudan del Sur                      Cant. Habit.: 12778250
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Suecia                             Cant. Habit.: 10345449
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Suiza                              Cant. Habit.: 8603899
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Surinam                            Cant. Habit.: 587000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Tailandia                          Cant. Habit.: 66509000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Tanzania                           Cant. Habit.: 55966030
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Tayikistan                         Cant. Habit.: 9127000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Timor Oriental                     Cant. Habit.: 1425134
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Togo                               Cant. Habit.: 7706000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Tonga                              Cant. Habit.: 100300
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Trinidad y Tobago                  Cant. Habit.: 1363985
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Tunez                              Cant. Habit.: 11722038
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Turkmenistan                       Cant. Habit.: 6031000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Turquia                            Cant. Habit.: 83154997
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Ucrania                            Cant. Habit.: 41830619
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Uganda                             Cant. Habit.: 41590300
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Uruguay                            Cant. Habit.: 3518552
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Uzbekistan                         Cant. Habit.: 34171000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Vanuatu                            Cant. Habit.: 304500
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Venezuela                          Cant. Habit.: 32605423
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Vietnam                            Cant. Habit.: 96208984
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+         866562         852081         927676         785619
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1         139843         143386         137688         119885
+
+  2         111712         124876         113705         114677
+
+  3         132213         101722         140857          97651
+
+  4          95763         123870         133731         131998
+
+  5         134581         121781         152005          91481
+
+  6         124670         115648         129635         109700
+
+  7         127780         120798         120055         120227
+
+================================================================
+
+================================================================
+
+Pais: Yemen                              Cant. Habit.: 29826000
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Yibuti                             Cant. Habit.: 1108567
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Zambia                             Cant. Habit.: 17885422
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+
+================================================================
+
+Pais: Zimbabue                           Cant. Habit.: 15473818
+
+Totales por casos de Enero a Julio
+
+         Hisop.         Infec.         Recup.        Fallec.
+              0              0              0              0
+
+Totales por meses
+
+Mes         Hisop.         Infec.         Recup.        Fallec.
+  1              0              0              0              0
+
+  2              0              0              0              0
+
+  3              0              0              0              0
+
+  4              0              0              0              0
+
+  5              0              0              0              0
+
+  6              0              0              0              0
+
+  7              0              0              0              0
+
+================================================================
+

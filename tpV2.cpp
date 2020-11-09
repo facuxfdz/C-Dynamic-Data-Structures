@@ -2,6 +2,7 @@
 #include <fstream>
 #include <string.h>
 #include <string>
+#include <iomanip>
 
 
 using namespace std;
@@ -60,20 +61,22 @@ void push(tsCalcLista*&, tsParDia);
 void inicValoresParDia(tsCalcLista*&);
 void insertarParteDiario(tsCalcLista*&, tsParDia);
 bool compare(char[],char[]);
+void ListadoPaises(tsCalcLista*, ofstream&);
 
 
 int main()
 {
     ifstream arParteDiarioBIN, arPaisesBIN;
     tsCalcLista* headPais = NULL;
-    
+    ofstream arPaises("ListadoPaises.txt");
+
     Abrir(arPaisesBIN,arParteDiarioBIN);
     
 
     procPaises(arPaisesBIN,headPais);
     procParteDiario(arParteDiarioBIN,headPais);
 
-    
+    ListadoPaises(headPais, arPaises);
 
     Cerrar(arPaisesBIN,arParteDiarioBIN);
 
@@ -214,12 +217,7 @@ void insertarParteDiario(tsCalcLista* &node, tsParDia regParDia){
         
     }
 
-    for(int i=0;i<7;i++){
-        node->totales.tipo[HISOPADOS] += node->estadisticasMensuales[i].tipo[HISOPADOS];
-        node->totales.tipo[INFECTADOS] += node->estadisticasMensuales[i].tipo[INFECTADOS];
-        node->totales.tipo[RECUPERADOS] += node->estadisticasMensuales[i].tipo[RECUPERADOS];
-        node->totales.tipo[FALLECIDOS] += node->estadisticasMensuales[i].tipo[FALLECIDOS];
-    }
+
 }
 
 bool compare(char cad1[],char cad2[]){
@@ -243,5 +241,52 @@ bool compare(char cad1[],char cad2[]){
     }else{
         return false;
     }
+
+}
+
+void ListadoPaises(tsCalcLista* head_ref, ofstream &arPaises){
+    
+    arPaises<<setw(60)<<left<<"Listado ordenado por países y meses de casos mensuales"<<endl<<endl;
+    while(head_ref != NULL){
+        arPaises<<"================================================================"<<endl<<endl;
+        arPaises<<"Pais: "<<head_ref->nombrePais<<setw(30)<<"Cant. Habit.: "
+            <<head_ref->cantidadHabitantes<<endl<<endl;
+        arPaises<<"Totales por casos de Enero a Julio"<<endl<<endl;
+        arPaises<< setw(15) << right << "Hisop."
+            << setw(15) << right << "Infec."
+            << setw(15) << right << "Recup."
+            << setw(15) << right << "Fallec." << endl;
+
+        for(int i=0;i<4;i++){
+            for(int j=0;j<7;j++){
+                head_ref->totales.tipo[i] += head_ref->estadisticasMensuales[j].tipo[i]; 
+            }
+        }
+
+        arPaises<< setw(15) << right << head_ref->totales.tipo[HISOPADOS]
+            << setw(15) << right << head_ref->totales.tipo[INFECTADOS]
+            << setw(15) << right << head_ref->totales.tipo[RECUPERADOS]
+            << setw(15) << right << head_ref->totales.tipo[FALLECIDOS]<<endl<<endl;;
+        arPaises<<"Totales por meses"<<endl<<endl;
+        arPaises<< setw(3) << "Mes"
+            << setw(15) << "Hisop."
+            << setw(15) << "Infec."
+            << setw(15) << "Recup."
+            << setw(15) << "Fallec." << endl;
+        for(int i=0;i<7;i++){
+            arPaises << setw(3) << i+1
+                << setw(15) << head_ref->estadisticasMensuales[i].tipo[HISOPADOS]
+                << setw(15) << head_ref->estadisticasMensuales[i].tipo[INFECTADOS]
+                << setw(15) << head_ref->estadisticasMensuales[i].tipo[RECUPERADOS]
+                << setw(15) << head_ref->estadisticasMensuales[i].tipo[FALLECIDOS] << endl << endl;  
+            
+        }
+        arPaises<<"================================================================"<<endl<<endl;
+
+
+        head_ref = head_ref->next;
+    }
+
+    cout<<"ListadoPaises.txt generado correctamente!"<<endl;
 
 }
