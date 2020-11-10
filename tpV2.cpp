@@ -337,7 +337,7 @@ void ListadoCasos(tsCalcLista*& lista){
         OrdXBur(lista,i);
         nombreArchivo += nombreListado + ".txt";
         ofstream arListado;
-        arListado.open(nombreArchivo);
+        arListado.open(nombreArchivo.c_str());
         
         fabricarListado(lista,i,nombreListado,arListado);
         cout<<nombreArchivo<<" ha sido generado exitosamente"<<endl<<endl;
