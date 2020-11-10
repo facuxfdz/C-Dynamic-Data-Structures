@@ -90,8 +90,8 @@ int main()
 }
 
 void Abrir(ifstream &arPaises, ifstream &arParDia){
-    arPaises.open("Paises.bin", ios::in|ios::binary);
-    arParDia.open("ParteDiario.bin", ios::in|ios::binary);
+    arPaises.open("Paises.dat", ios::in|ios::binary);
+    arParDia.open("ParteDiario.dat", ios::in|ios::binary);
 }
 
 void Cerrar(ifstream &arPaises, ifstream &arParDia){
@@ -320,7 +320,6 @@ void headerListado(string nombreListado, ofstream& arListado){
 
 void ListadoCasos(tsCalcLista*& lista){
     string nombreListado;
-    
 
     for(int i=0;i<4;i++){
         string nombreArchivo = "Listado";
