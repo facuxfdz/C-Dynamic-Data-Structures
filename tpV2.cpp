@@ -62,6 +62,11 @@ void inicValoresParDia(tsCalcLista*&);
 void insertarParteDiario(tsCalcLista*&, tsParDia);
 bool compare(char[],char[]);
 void ListadoPaises(tsCalcLista*, ofstream&);
+void headerListado(string);
+void ListadoCasos(tsCalcLista*&);
+
+
+void fabricarListado(tsCalcLista*,int,string);
 
 
 int main()
@@ -77,6 +82,7 @@ int main()
     procParteDiario(arParteDiarioBIN,headPais);
 
     ListadoPaises(headPais, arPaises);
+    ListadoCasos(headPais);
 
     Cerrar(arPaisesBIN,arParteDiarioBIN);
 
@@ -289,4 +295,46 @@ void ListadoPaises(tsCalcLista* head_ref, ofstream &arPaises){
 
     cout<<"ListadoPaises.txt generado correctamente!"<<endl;
 
+}
+
+void headerListado(string nombreListado){
+    cout << setw(75) <<fixed<<"Listado de " << nombreListado << endl;
+	cout << setw( 5) << left << "Nro. "
+			   << setw(14) << left << "Nom. "
+			   << setw(17) << right<< "Cant.Hab. "
+			    << right<< "--------------------   Cantidades de " << nombreListado << " por mes   --------------------"
+			   << setw(12) << right<< "Cant." 
+			   << setw(20) << right<< "Porcentajes"	<< endl;
+	cout << setw( 5) << left << "Ord. "
+			   << setw(14) << left << "Pais"
+			   << setw(14) << left << " "
+			   << setw(11) << right << "Ene "
+			   << setw(11) << right << "Feb "
+			   << setw(11) << right << "Mar "
+			   << setw(11) << right << "Abr "
+			   << setw(11) << right << "May "
+			   << setw(11) << right << "Jun "
+			   << setw( 11) << right << "Jul "
+			   << setw(15) << right << "Tot. " << endl << endl << endl;
+}
+
+void ListadoCasos(tsCalcLista*& lista){
+    string nombreListado;
+
+
+    for(int i=0;i<4;i++){
+        if(i == 0){
+            nombreListado = "Hisopados";
+        }else if (i == 1){
+            nombreListado = "Infectados";
+        }else if (i == 2){
+            nombreListado = "Recuperados";
+        }else{
+            nombreListado = "Fallecidos";
+        }
+        
+        headerListado(nombreListado);
+    }
+
+    
 }
