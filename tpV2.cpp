@@ -62,11 +62,11 @@ void inicValoresParDia(tsCalcLista*&);
 void insertarParteDiario(tsCalcLista*&, tsParDia);
 bool compare(char[],char[]);
 void ListadoPaises(tsCalcLista*, ofstream&);
-void headerListado(string);
+void headerListado(string,ofstream&);
 void ListadoCasos(tsCalcLista*&);
-
-
-void fabricarListado(tsCalcLista*,int,string);
+void OrdXBur(tsCalcLista*&,int);
+void IntCmb(tsCalcLista*&, tsCalcLista*&);
+void fabricarListado(tsCalcLista*,int,string, ofstream&);
 
 
 int main()
@@ -293,19 +293,19 @@ void ListadoPaises(tsCalcLista* head_ref, ofstream &arPaises){
         head_ref = head_ref->next;
     }
 
-    cout<<"ListadoPaises.txt generado correctamente!"<<endl;
+    cout<<"ListadoPaises.txt ha sido generado correctamente!"<<endl<<endl;
 
 }
 
-void headerListado(string nombreListado){
-    cout << setw(75) <<fixed<<"Listado de " << nombreListado << endl;
-	cout << setw( 5) << left << "Nro. "
+void headerListado(string nombreListado, ofstream& arListado){
+    arListado << setw(75) <<fixed<<"Listado de " << nombreListado << endl;
+	arListado << setw( 5) << left << "Nro. "
 			   << setw(14) << left << "Nom. "
 			   << setw(17) << right<< "Cant.Hab. "
 			    << right<< "--------------------   Cantidades de " << nombreListado << " por mes   --------------------"
 			   << setw(12) << right<< "Cant." 
 			   << setw(20) << right<< "Porcentajes"	<< endl;
-	cout << setw( 5) << left << "Ord. "
+	arListado << setw( 5) << left << "Ord. "
 			   << setw(14) << left << "Pais"
 			   << setw(14) << left << " "
 			   << setw(11) << right << "Ene "
@@ -315,14 +315,15 @@ void headerListado(string nombreListado){
 			   << setw(11) << right << "May "
 			   << setw(11) << right << "Jun "
 			   << setw( 11) << right << "Jul "
-			   << setw(15) << right << "Tot. " << endl << endl << endl;
+			   << setw(15) << right << "Tot. " << endl;
 }
 
 void ListadoCasos(tsCalcLista*& lista){
     string nombreListado;
-
+    
 
     for(int i=0;i<4;i++){
+        string nombreArchivo = "Listado";
         if(i == 0){
             nombreListado = "Hisopados";
         }else if (i == 1){
@@ -333,8 +334,128 @@ void ListadoCasos(tsCalcLista*& lista){
             nombreListado = "Fallecidos";
         }
         
-        headerListado(nombreListado);
-    }
+        OrdXBur(lista,i);
+        nombreArchivo += nombreListado + ".txt";
+        ofstream arListado;
+        arListado.open(nombreArchivo);
+        
+        fabricarListado(lista,i,nombreListado,arListado);
+        cout<<nombreArchivo<<" ha sido generado exitosamente"<<endl<<endl;
 
+        arListado.close();
+    }
+}
+
+void OrdXBur(tsCalcLista*& head_ref, int tipoListado){
+
+    tsCalcLista* i = new tsCalcLista();
+    tsCalcLista* j;
+    i  = head_ref;
     
+        while(i->next != NULL){
+            j = i->next;
+            while(j != NULL){
+                // Condicion: i->totales.tipo[0] < j->next->totales.tipo[0]
+                unsigned long int totalesActual = i->totales.tipo[tipoListado];
+                unsigned long int totalesSgte = j->totales.tipo[tipoListado]; 
+                if(totalesActual < totalesSgte){
+                    IntCmb(i,j);
+                }
+                
+                j = j->next;
+                
+            }
+            i = i->next;
+            
+        }
+    
+}
+
+void IntCmb(tsCalcLista*& node1, tsCalcLista*& node2){
+    
+    char auxNombre[21];
+    unsigned int auxCantHabit;
+    unsigned long int auxEstadisticas[7][4];
+    unsigned long int auxTotales[4];
+
+
+    //aux = node1
+    strcpy(auxNombre,node1->nombrePais);
+    auxCantHabit = node1->cantidadHabitantes;
+    for(int i=0;i<7;i++){
+        auxEstadisticas[i][HISOPADOS] = node1->estadisticasMensuales[i].tipo[HISOPADOS];
+        auxEstadisticas[i][INFECTADOS] = node1->estadisticasMensuales[i].tipo[INFECTADOS];
+        auxEstadisticas[i][RECUPERADOS] = node1->estadisticasMensuales[i].tipo[RECUPERADOS];
+        auxEstadisticas[i][FALLECIDOS] = node1->estadisticasMensuales[i].tipo[FALLECIDOS];
+    }
+    auxTotales[HISOPADOS] = node1->totales.tipo[HISOPADOS];
+    auxTotales[INFECTADOS] = node1->totales.tipo[INFECTADOS];
+    auxTotales[RECUPERADOS] = node1->totales.tipo[RECUPERADOS];
+    auxTotales[FALLECIDOS] = node1->totales.tipo[FALLECIDOS];
+
+
+    //node1 = node2;
+    strcpy(node1->nombrePais,node2->nombrePais);
+    node1->cantidadHabitantes = node2->cantidadHabitantes;
+    for(int i=0;i<7;i++){
+        node1->estadisticasMensuales[i].tipo[HISOPADOS] = node2->estadisticasMensuales[i].tipo[HISOPADOS];
+        node1->estadisticasMensuales[i].tipo[INFECTADOS] = node2->estadisticasMensuales[i].tipo[INFECTADOS];
+        node1->estadisticasMensuales[i].tipo[RECUPERADOS] = node2->estadisticasMensuales[i].tipo[RECUPERADOS];
+        node1->estadisticasMensuales[i].tipo[FALLECIDOS] = node2->estadisticasMensuales[i].tipo[FALLECIDOS];
+    }
+    node1->totales.tipo[HISOPADOS] = node2->totales.tipo[HISOPADOS];
+    node1->totales.tipo[INFECTADOS] = node2->totales.tipo[INFECTADOS];
+    node1->totales.tipo[RECUPERADOS] = node2->totales.tipo[RECUPERADOS];
+    node1->totales.tipo[FALLECIDOS] = node2->totales.tipo[FALLECIDOS];
+    
+    //node2 = aux;
+    strcpy(node2->nombrePais,auxNombre);
+    node2->cantidadHabitantes = auxCantHabit;
+    for(int i=0;i<7;i++){
+        node2->estadisticasMensuales[i].tipo[HISOPADOS] = auxEstadisticas[i][HISOPADOS];
+        node2->estadisticasMensuales[i].tipo[INFECTADOS] = auxEstadisticas[i][INFECTADOS];
+        node2->estadisticasMensuales[i].tipo[RECUPERADOS] = auxEstadisticas[i][RECUPERADOS];
+        node2->estadisticasMensuales[i].tipo[FALLECIDOS] = auxEstadisticas[i][FALLECIDOS];
+    }
+    node2->totales.tipo[HISOPADOS] = auxTotales[HISOPADOS];
+    node2->totales.tipo[INFECTADOS] = auxTotales[INFECTADOS];
+    node2->totales.tipo[RECUPERADOS] = auxTotales[RECUPERADOS];
+    node2->totales.tipo[FALLECIDOS] = auxTotales[FALLECIDOS];
+    
+
+}   
+
+void fabricarListado(tsCalcLista* lista, int tipo, string nombreListado, ofstream& arListado){
+    double totalPais = 0;
+	double totalTipo = 0;
+	double habitantesTotal = 0;
+	double por100Pais = 0;
+	double por100Total = 0;
+	
+    headerListado(nombreListado,arListado);
+	
+	for(int i=0 ; i<10 ; i++){
+		
+		totalPais = 0;
+		arListado	<< setw( 5) << left << i+1
+					<< setw(16) << left  << lista->nombrePais
+					<< setw(12) << right << lista->cantidadHabitantes;
+					habitantesTotal += lista->cantidadHabitantes;
+						
+					for(int j=0 ; j<CANT_MAX_MESES ; j++){
+						arListado << setw(11) << setprecision(0) << right << lista->estadisticasMensuales[j].tipo[tipo];
+						totalPais += lista->estadisticasMensuales[j].tipo[tipo];
+					}
+					
+					totalTipo += totalPais;	
+					arListado << setw(15) << setprecision(0) << right << totalPais;
+					por100Pais = (totalPais * 100) / lista->cantidadHabitantes;
+					arListado << setw( 14) << setprecision(6)<< right << por100Pais << " %" << endl;		
+        lista = lista->next;		 
+	}
+	
+	arListado << endl << endl;
+	arListado << "Cantidad total de " << nombreListado << " hasta la fecha actual: " << setprecision(0) << totalTipo << setprecision(5) << endl;
+	por100Total = (totalTipo * 100) / habitantesTotal;
+	arListado << "Porcentaje de "	   << nombreListado << ": " << por100Total << " %" << endl;
 }
